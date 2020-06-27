@@ -1,11 +1,7 @@
 # JavaScript Calculator
 Need to do some simple math but your fingers are tired? Javascript Calculator to the rescue!
   
-## Project Details
 
-**View My Project:** http://candicedavidson.com/portfolio/calculator/
-
-![Unsolicited Advice Generator](https://github.com/cndragn/portfolio/blob/master/images/calculator.png)
 
 ## Features
   * Calculations as you would expect from a basic calculator
@@ -19,5 +15,3 @@ Need to do some simple math but your fingers are tired? Javascript Calculator to
 * JavaScript
 * jQuery
 
-## Acknowledgements
-Project idea: [FCC Build a JavaScript Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
